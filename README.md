@@ -34,7 +34,7 @@ If you encounter any errors or if you'd like to add your favorite app/framework 
 |Skype|💎|||Depends on Electron, see [Frameworks](#Frameworks)|
 |Whatsapp|💎|||Depends on Electron, see [Frameworks](#Frameworks)|
 |Discord|💎|||Depends on Electron, see [Frameworks](#Frameworks)|
-|Telegram|💎||||
+|Telegram|✅||||
 |Google Backup and Sync|⛔️|3.53.3404.7585||Crashing during setup.|
 |Microsoft Office 2019|✅|2019 Beta||Available in the [Beta Channel](https://insider.office.com/en-us/join/mac) only|
 
